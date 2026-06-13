@@ -1,0 +1,20 @@
+<svg width="100%" viewBox="0 0 680 250" xmlns="http://www.w3.org/2000/svg">
+<rect width="680" height="250" fill="#0a0e17"/>
+<g font-family="Verdana, Geneva, sans-serif">
+<text x="40" y="35" font-size="13" fill="#9fe8ff">Python</text>
+<rect x="40" y="42" width="600" height="8" fill="#13202e"/>
+<rect x="40" y="42" width="510" height="8" fill="#00f0ff"/>
+<text x="40" y="80" font-size="13" fill="#9fe8ff">TypeScript / JavaScript</text>
+<rect x="40" y="87" width="600" height="8" fill="#13202e"/>
+<rect x="40" y="87" width="480" height="8" fill="#ff00aa"/>
+<text x="40" y="125" font-size="13" fill="#9fe8ff">SQL / Database design</text>
+<rect x="40" y="132" width="600" height="8" fill="#13202e"/>
+<rect x="40" y="132" width="450" height="8" fill="#39ff88"/>
+<text x="40" y="170" font-size="13" fill="#9fe8ff">Flask / Backend</text>
+<rect x="40" y="177" width="600" height="8" fill="#13202e"/>
+<rect x="40" y="177" width="390" height="8" fill="#00f0ff"/>
+<text x="40" y="215" font-size="13" fill="#9fe8ff">Blockchain / Web3 (learning)</text>
+<rect x="40" y="222" width="600" height="8" fill="#13202e"/>
+<rect x="40" y="222" width="300" height="8" fill="#ff00aa"/>
+</g>
+</svg>
